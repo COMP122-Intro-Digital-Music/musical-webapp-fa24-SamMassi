@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "name": "fewsnare",
+    "pitch": "B3",
+    "pattern": "0000100000001000"
+  },
+  {
+    "name": "hitthat",
+    "pitch": "F4",
+    "pattern": "1010"
+  },
+  {
+    "name": "whyisthecymbalreversed",
+    "pitch": "E4",
+    "pattern": "0001000100010011"
+  }
+]
